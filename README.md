@@ -56,6 +56,6 @@ A continuación, se muestra una vista previa del dashboard desarrollado en Power
 ## Autor
 **Facundo Reta**  
 Ingeniero Electrónico | Ingeniero de proyectos | Data & Project Enthusiast  
-[LinkedIn o correo si querés agregarlo](linkedin.com/in/facundo-reta-48513a13)
+[Contacto](linkedin.com/in/facundo-reta-48513a13)
 
 ---
