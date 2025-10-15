@@ -45,7 +45,7 @@ Estos datos fueron procesados y analizados para descubrir patrones significativo
 ## Visualizaciones
 A continuación, se muestra una vista previa del dashboard desarrollado en Power BI:  
 
-![Dashboard Preview](./img/dashboard_preview.png)
+![Dashboard Preview](./Images/dashboard_preview.png)
 
 ## 🚀 Próximos pasos
 - Incorporar un **sistema de fidelización de clientes** basado en su recurrencia.  
